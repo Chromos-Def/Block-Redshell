@@ -12,12 +12,12 @@ The **_Install_** scripts will block the Redshell spyware at a Hosts file & Wind
 The **_Uninstall_** scripts will unblock the Redshell spyware. (But why? - see **Warning** below)
 
 # Install
-- Right click **1-Hosts-Install-Block-Redshell.bat** click **_run as administrator_.**
-- Right click **2-Firewall-Install-Block-Redshell.bat** click **_run as administrator_.**
+- Right click **1-Hosts-Install-Block-Redshell.bat** and then click **_run as administrator_.**
+- Right click **2-Firewall-Install-Block-Redshell.bat** and then click **_run as administrator_.**
 
 # Uninstall
-- Right click **1-Hosts-Uninstall-Block-Redshell.bat** click **_run as administrator_.**
-- Right click **2-Firewall-Uninstall-Block-Redshell.bat** click **_run as administrator_.**
+- Right click **1-Hosts-Uninstall-Block-Redshell.bat** and then click **_run as administrator_.**
+- Right click **2-Firewall-Uninstall-Block-Redshell.bat** and then click **_run as administrator_.**
 
 # Warning
 Some games will not launch or work while blocking Redshell, because they unfortunately use this spyware to collect telemetry on **YOU**, so I have included the Uninstall batch files.
