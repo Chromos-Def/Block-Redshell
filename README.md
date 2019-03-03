@@ -6,6 +6,7 @@ https://www.reddit.com/r/Steam/comments/8pud8b/psa_red_shell_spyware_holy_potato
 
 # What do these batch files do?
 Block-Redshell consists of 23 combined hostnames & IPs.
+
 They will block the Redshell spyware at the Hosts file & Windows Firewall level.
 
 # Install & Uninstall instructions
